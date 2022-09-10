@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": "Epsilon Example Adv                                                              ",
+        "description": ["",
+        {"text":"How to use Epsilon:","color":"gold"},{"text":"\n"},
+        {"text":"Copy as template pack,","color":"green"},{"text":"\n"},
+        {"text":"Add Refereneces from main code branches fro useful functions.","color":"green"},{"text":"\n"},
+        {"text":"Use for references","color":"yellow"},{"text":"\n"},
+        {"text":"Try to keep as many references as possible in this pack.","color":"red"}
+    ],
+    "icon": {
+        "item": "minecraft:netherite_chestplate"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+    },
+    "parent": "inhauspacks:epsilon",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
