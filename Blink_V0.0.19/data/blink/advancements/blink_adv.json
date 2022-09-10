@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "blinkunlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "blink:blink_rcp"
+            }
+        }
+    },
+    "rewards": {
+        "function": "blink:pre_craft"
+    }
+}

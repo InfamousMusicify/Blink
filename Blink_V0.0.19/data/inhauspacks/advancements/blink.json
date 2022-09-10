@@ -1,16 +1,16 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:netherite_helmet"
+            "item": "minecraft:ender_eye"
         },
         "title": {
-            "text": "Epsilon - Source Code Pack     ",
+            "text": "     Blink             ",
             "color": "white",
             "bold": false,
             "italic": false
         },
         "description": {
-            "text": "Source Code Exampole Pack for refernece/ template.",
+            "text": "Teleport to Crosshair",
             "color": "green",
             "bold": false,
             "italic": false

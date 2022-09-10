@@ -1,0 +1,21 @@
+{
+    "display": {
+        "title": "Crafting / Use          ",
+        "description": ["",
+        {"text":"How to Craft Blink:","color":"gold"},{"text":"\n"},
+        {"text":"Nether star + Ender Eye,","color":"green"},{"text":"\n"},
+        {"text":"Right click Blink to teleport.","color":"green"}
+    ],
+    "icon": {
+        "item": "minecraft:ender_pearl"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+    },
+    "parent": "inhauspacks:blink",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
