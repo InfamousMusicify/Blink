@@ -7,7 +7,8 @@ Crafting:                          Use:
 Nether Star + Eye of Ender         Right click to teleport where you are looking.
 ```
 ## [🔗Download🔗](https://github.com/InfamousMusicify/Blink/archive/refs/heads/master.zip)    
- 
+## [🔗Textures🔗](https://github.com/InfamousMusicify/InHaus-Textures/releases)  
+
 __[🔗 How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)__    
   
 Esoteric excess pack info:   
